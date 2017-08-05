@@ -5,9 +5,7 @@
 #Build: 1.0.2017
 #e-mail: bl4ckbo7@protonmail.com
 
-import random, os, sys
-from sys import argv
-from random import randrange
+import sys
 from time import sleep
 
 print("\n\n")
