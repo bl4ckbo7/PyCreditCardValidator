@@ -1,4 +1,4 @@
-#!/Users/blackbot/Python/Python35-32/python
+#!/bin/env python
 
 import random, os, sys
 from sys import argv
