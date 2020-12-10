@@ -6,7 +6,7 @@ from random import randrange, choice
 from time import sleep
 
 print("\n\n=======================================", end="\n")
-print("Program : Credit Card Number Checker\nCoded by: bl4ckbo7\nBuild   : 1.1.2017\nE-mail  : bl4ckbo7@protonmail.com", end="\n")
+print("Program : Credit Card Number Checker\nCoded by: bl4ckbo7\nBuild   : 1.1.2017\nE-mail  : xxxxxx@xxxxxxx.com", end="\n")
 print("=======================================", end="\n\n")
 
 #MasterCard BINs begin here
